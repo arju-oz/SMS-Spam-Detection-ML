@@ -37,6 +37,12 @@ Skills Demonstrated
 - Data Preprocessing
 - Model Evaluation
 
+Screenshots
+Dataset Preview
+![Dataset Preview](screenshots/dataset_preview.png)
+Accuracy Results
+![Accuracy Results](screenshots/accuracy_results.png)
+
 Author
 
 M R Arjun
